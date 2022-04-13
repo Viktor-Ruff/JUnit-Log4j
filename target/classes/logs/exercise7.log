@@ -1,0 +1,54 @@
+a2022-04-07 21:45:15 DEBUG  exercise7:27 - counter: 5
+2022-04-07 21:45:15 DEBUG  exercise7:27 - counter: 8
+2022-04-07 21:45:15 DEBUG  exercise7:27 - counter: 9
+2022-04-07 21:45:15 DEBUG  exercise7:27 - counter: 13
+2022-04-07 21:45:15 DEBUG  exercise7:27 - counter: 15
+2022-04-07 21:45:15 DEBUG  exercise7:27 - counter: 16
+2022-04-07 21:45:15 DEBUG  exercise7:37 - temporary: 5
+2022-04-07 21:45:15 DEBUG  exercise7:37 - temporary: 8
+2022-04-07 21:45:15 DEBUG  exercise7:37 - temporary: 9
+2022-04-07 21:45:15 DEBUG  exercise7:37 - temporary: 13
+2022-04-07 21:45:15 DEBUG  exercise7:37 - temporary: 15
+2022-04-07 21:45:15 DEBUG  exercise7:37 - temporary: 16
+2022-04-07 21:46:03 DEBUG  exercise7:27 - counter: 5
+2022-04-07 21:46:03 DEBUG  exercise7:27 - counter: 8
+2022-04-07 21:46:03 DEBUG  exercise7:27 - counter: 9
+2022-04-07 21:46:03 DEBUG  exercise7:27 - counter: 13
+2022-04-07 21:46:03 DEBUG  exercise7:27 - counter: 15
+2022-04-07 21:46:03 DEBUG  exercise7:27 - counter: 16
+2022-04-07 21:46:03 DEBUG  exercise7:37 - temporary: 5
+2022-04-07 21:46:03 DEBUG  exercise7:37 - temporary: 8
+2022-04-07 21:46:03 DEBUG  exercise7:37 - temporary: 9
+2022-04-07 21:46:03 DEBUG  exercise7:37 - temporary: 13
+2022-04-07 21:46:03 DEBUG  exercise7:37 - temporary: 15
+2022-04-07 21:46:03 DEBUG  exercise7:37 - temporary: 16
+2022-04-07 21:47:02 DEBUG  exercise7:27 - counter: 5
+2022-04-07 21:47:02 DEBUG  exercise7:27 - counter: 8
+2022-04-07 21:47:02 DEBUG  exercise7:27 - counter: 9
+2022-04-07 21:47:02 DEBUG  exercise7:27 - counter: 13
+2022-04-07 21:47:02 DEBUG  exercise7:27 - counter: 15
+2022-04-07 21:47:02 DEBUG  exercise7:27 - counter: 16
+2022-04-07 21:47:02 DEBUG  exercise7:37 - temporary: 5
+2022-04-07 21:47:02 DEBUG  exercise7:37 - temporary: 8
+2022-04-07 21:47:02 DEBUG  exercise7:37 - temporary: 9
+2022-04-07 21:47:02 DEBUG  exercise7:37 - temporary: 13
+2022-04-07 21:47:02 DEBUG  exercise7:37 - temporary: 15
+2022-04-07 21:47:02 DEBUG  exercise7:37 - temporary: 16
+2022-04-07 21:48:51 DEBUG  exercise7:27 - counter: 5
+2022-04-07 21:48:51 DEBUG  exercise7:27 - counter: 8
+2022-04-07 21:48:51 DEBUG  exercise7:27 - counter: 9
+2022-04-07 21:48:51 DEBUG  exercise7:27 - counter: 13
+2022-04-07 21:48:51 DEBUG  exercise7:27 - counter: 15
+2022-04-07 21:48:51 DEBUG  exercise7:27 - counter: 16
+2022-04-07 21:48:51 DEBUG  exercise7:37 - temporary: 5
+2022-04-07 21:48:51 ERROR  exercise7:41 - Error temporary add
+2022-04-07 21:48:51 DEBUG  exercise7:37 - temporary: 8
+2022-04-07 21:48:51 ERROR  exercise7:41 - Error temporary add
+2022-04-07 21:48:51 DEBUG  exercise7:37 - temporary: 9
+2022-04-07 21:48:51 ERROR  exercise7:41 - Error temporary add
+2022-04-07 21:48:51 DEBUG  exercise7:37 - temporary: 13
+2022-04-07 21:48:51 ERROR  exercise7:41 - Error temporary add
+2022-04-07 21:48:51 DEBUG  exercise7:37 - temporary: 15
+2022-04-07 21:48:51 ERROR  exercise7:41 - Error temporary add
+2022-04-07 21:48:51 DEBUG  exercise7:37 - temporary: 16
+2022-04-07 21:48:51 ERROR  exercise7:41 - Error temporary add
